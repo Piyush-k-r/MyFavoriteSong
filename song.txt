@@ -12,3 +12,9 @@ touch song.txt
 git add song.txt
 git commit -m "Added song.txt with lyrics from my favorite song"
 git push origin main
+
+
+for making changes after above steps i used 
+git add song.txt
+git commit -m "Updated song.txt with additional lyrics"
+git push origin main
