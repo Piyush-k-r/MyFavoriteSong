@@ -1,2 +1,14 @@
 Hello, it's me
 I was wondering if after all these years you'd like to meet and lemme introduce to my fav songs ."grenade by Bruno", Aadat by Atif " and alot more are there
+
+
+
+cmd i used 
+
+
+git clone https://github.com/YourUsername/MyFavoriteSong.git
+cd MyFavoriteSong
+touch song.txt
+git add song.txt
+git commit -m "Added song.txt with lyrics from my favorite song"
+git push origin main
